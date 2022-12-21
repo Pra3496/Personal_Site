@@ -78,7 +78,7 @@ a:hover{
 }
 
 .skill-row {
-    width: 50%;
+    width: 45%;
     margin: 100px auto 100px auto;
     text-align: left;
    
@@ -91,7 +91,6 @@ a:hover{
 }
 .code-img{
     width: 25%;
-    height: 10%;
     float: left;
     margin-right: 30px;
 }
