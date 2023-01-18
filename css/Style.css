@@ -79,7 +79,11 @@ a:hover{
 }
 
 .skill-row {
+<<<<<<< HEAD
     width: 50%;
+=======
+    width: 40%;
+>>>>>>> 36db8300575eb074183c31b14ba23ffbc7f4de75
     margin: 100px auto 100px auto;
     text-align: left;
    
